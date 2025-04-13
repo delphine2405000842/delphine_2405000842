@@ -10,8 +10,6 @@
         $name = "Delphine DUSINGIZIMANA";
         $module = "Intro to PHP";
         $regNumber = "2405000842";
-
-        // Display the details
         echo "<h1>Person Details</h1>";
         echo "<p><strong>Name:</strong> $name</p>";
         echo "<p><strong>Module:</strong> $module</p>";
