@@ -7,9 +7,9 @@
 </head>
 <body>
     <?php
-        $name = "Olamide Fash";
+        $name = "Delphine DUSINGIZIMANA";
         $module = "Intro to PHP";
-        $regNumber = "2405000914";
+        $regNumber = "2405000842";
 
         // Display the details
         echo "<h1>Person Details</h1>";
